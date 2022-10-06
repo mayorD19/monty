@@ -73,4 +73,4 @@ void pstr_handler(stack_t **stack, unsigned int line_number)
 	printf("\n");
 
 	(void)line_number;
-}}
+}
